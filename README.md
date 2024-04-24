@@ -4,8 +4,10 @@
 This repository was created as a form of study for the Computational Intelligence discipline at UFES, taught by professor Renato Krohling.
 
 
-In the attached notebooks, my goal was to minimize the equations proposed in the article ["Swarm algorithms with chaotic jumps applied to noisy optimization problems" by Mendel, Krohling and Campos (2010)](https://doi.org/10.1016/j.ins.2010.06.007) using algorithms studied in the classroom such as Genetic Algorithm, Differential Evolution and Particle Swarm Optimization.
+In the attached notebooks, my goal was to minimize the equations F5, F6, G1 and G9 using algorithms studied in the classroom such as Genetic Algorithm, Differential Evolution and Particle Swarm Optimization.
 
+
+Equations F5 and F6 can be found in article ["Swarm algorithms with chaotic jumps applied to noisy optimization problems" by Mendel, Krohling and Campos (2010)](https://doi.org/10.1016/j.ins.2010.06.007). G1 and G9 can be found in article ["Constrained optimization based on modified differential evolution algorithm" by Mohamed and Sabry (2012)](https://doi.org/10.1016/j.ins.2012.01.008).
 
 
 # Genetic Algorithm
