@@ -8,7 +8,7 @@ In [exercise 1](https://github.com/pedroscortes/computational-intelligence-ufes/
 
 In [exercise 2](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise2) I did the same for the equations G1 and G9 from the article ["Constrained optimization based on modified differential evolution algorithm" by Mohamed and Sabry (2012)](https://doi.org/10.1016/j.ins.2012.01.008).
 
-In [exercise 3](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise3) the objective was to adjust the equation y = a + bx + cx² for real data of x and y using the algorithms mentioned above.
+In [exercise 3](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise3) the objective was to fit the equation y = a + bx + cx² for real data of x and y using the algorithms mentioned above.
 
 
 # Genetic Algorithm
