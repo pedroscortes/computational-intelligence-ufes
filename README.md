@@ -4,10 +4,11 @@
 This repository was created as a form of study for the Computational Intelligence discipline at UFES, taught by professor Renato Krohling.
 
 
-In the attached notebooks, my goal was to minimize the equations F5, F6, G1 and G9 using algorithms studied in the classroom such as Genetic Algorithm, Differential Evolution and Particle Swarm Optimization.
+In [exercise 1](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise1) my goal was to minimize the equations F5 and F6 from the article ["Swarm algorithms with chaotic jumps applied to noisy optimization problems" by Mendel, Krohling and Campos (2010)](https://doi.org/10.1016/j.ins.2010.06.007) using algorithms studied in the classroom such as Genetic Algorithm, Differential Evolution and Particle Swarm Optimization.
 
+In [exercise 2](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise2) I did the same for the equations G1 and G9 from the article ["Constrained optimization based on modified differential evolution algorithm" by Mohamed and Sabry (2012)](https://doi.org/10.1016/j.ins.2012.01.008).
 
-Equations F5 and F6 can be found in article ["Swarm algorithms with chaotic jumps applied to noisy optimization problems" by Mendel, Krohling and Campos (2010)](https://doi.org/10.1016/j.ins.2010.06.007). G1 and G9 can be found in article ["Constrained optimization based on modified differential evolution algorithm" by Mohamed and Sabry (2012)](https://doi.org/10.1016/j.ins.2012.01.008).
+In [exercise 3](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise3) the objective was to adjust the equation y = a + bx + cx² for real data of x and y using the algorithms mentioned above.
 
 
 # Genetic Algorithm
