@@ -10,6 +10,8 @@ In [exercise 2](https://github.com/pedroscortes/computational-intelligence-ufes/
 
 In [exercise 3](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise3) the objective was to fit the equation y = a + bx + cx² for real data of x and y using the algorithms mentioned above.
 
+In [exercise 4](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise4) the objective was to train a neural network (multi-layer perceptron) for a time series prediction problem. Furthermore, we had to optimize the network's hyperparameters using an evolutionary algorithm.
+
 
 # Genetic Algorithm
 
@@ -33,3 +35,10 @@ The particle swarm optimization (PSO) algorithm is a computational optimization 
 
 Read more [here.](https://doi.org/10.1007/s11831-021-09694-4)
 
+
+
+# Multi-layer Perceptron (MLP)
+
+A multi-layer perceptron (MLP) neural network is a type of artificial intelligence model used to recognize patterns and make decisions. It consists of several layers of connected nodes, called neurons. The first layer receives input data, the last layer produces the output, and the layers in between are called hidden layers. Each neuron in a layer is connected to neurons in the next layer, and these connections have weights that adjust during training to improve the model's accuracy. When the network is trained, it learns to transform the input data into the correct output by adjusting these weights. MLPs are powerful because they can learn and model complex relationships in data.
+
+Read more [here.](https://doi.org/10.1016/S1352-2310(97)00447-0)
