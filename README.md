@@ -44,3 +44,12 @@ Read more [here.](https://doi.org/10.1007/s11831-021-09694-4)
 A multi-layer perceptron (MLP) neural network is a type of artificial intelligence model used to recognize patterns and make decisions. It consists of several layers of connected nodes, called neurons. The first layer receives input data, the last layer produces the output, and the layers in between are called hidden layers. Each neuron in a layer is connected to neurons in the next layer, and these connections have weights that adjust during training to improve the model's accuracy. When the network is trained, it learns to transform the input data into the correct output by adjusting these weights. MLPs are powerful because they can learn and model complex relationships in data.
 
 Read more [here.](https://doi.org/10.1016/S1352-2310(97)00447-0)
+
+
+
+# Evolution Strategies (ES)
+
+Evolution Strategies (ES) is an optimization algorithm inspired by natural evolution, used for solving complex optimization problems. It involves a population of candidate solutions that evolve over generations through selection, mutation, and recombination. ES focuses on using mutations to explore the solution space and selecting the best-performing individuals based on a fitness function. This process iteratively improves the population, converging towards optimal solutions without relying heavily on gradient information, making it suitable for a wide range of optimization tasks.
+
+Read more [here.](https://doi.org/10.1023/A:1015059928466)
+
