@@ -12,6 +12,8 @@ In [exercise 3](https://github.com/pedroscortes/computational-intelligence-ufes/
 
 In [exercise 4](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise4) the objective was to train a neural network (multi-layer perceptron) for a time series prediction problem. Furthermore, we had to optimize the network's hyperparameters using an evolutionary algorithm.
 
+In [exercise 5](https://github.com/pedroscortes/computational-intelligence-ufes/tree/main/exercise5) the objective was to create from scratch, without the use of libraries (e.g.: scipy, scikit learn, scikit optimization, pyswarm, etc.), a genetic algorithm (GA) with real coding, Gaussian mutation and arithmetic crossover and a standard Evolution strategy (ES) algorithm. From these algorithms, our interest was in minimizing some mathematical functions using some other functions as constraints. This exercise was inspired on the article ["Constrained optimization based on modified differential evolution algorithm" by Mohamed and Sabry (2012)](https://doi.org/10.1016/j.ins.2012.01.008).
+
 
 # Genetic Algorithm
 
